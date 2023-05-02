@@ -14,7 +14,13 @@ const chef = require('./data/chef.json');
 app.get('/chef', (req, res) => {
     res.send(chef);
 })
+app.get ('/chef/:id', (req, res) =>{
+    const id = req.params.id
+    console.log(id);
+    const getchef = chef.find(chef => chef.id == id)
+    res.send(getchef);
 
+})
 
 
 
