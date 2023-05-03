@@ -1,13 +1,15 @@
 [
-    {   
+    {
         "id": 1,
-        "photo": "https://example.com/chef1.jpg",
+        "photo": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=2000",
         "name": "Chef John Doe",
-        "experience": "Over 10 years of experience in French cuisine",
+        "experience": "10",
         "bio": "Chef John Doe is a highly experienced chef who has worked in several top-rated restaurants across France. He specializes in French cuisine and has a passion for creating unique and delicious dishes.",
         "likes": 5000,
         "recipes": [
             {
+                "id": 11,
+                "photo": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
                 "name": "Classic French Onion Soup",
                 "ingredients": [
                     "6 large onions",
@@ -22,6 +24,8 @@
                 "rating": 4.5
             },
             {
+                "id": 12,
+                "photo": "https://media.istockphoto.com/id/913034864/photo/fish-dish-grilled-salmon-and-asparagus.jpg?s=612x612&w=0&k=20&c=f0NLE67qkpMXf_wa3kPY3QKs-xxEDI4YNqPu72qdGeU=",
                 "name": "Beef Bourguignon",
                 "ingredients": [
                     "2 pounds beef chuck",
@@ -36,6 +40,8 @@
                 "rating": 4.8
             },
             {
+                "id": 13,
+                "photo": "https://media.istockphoto.com/id/1322628932/photo/poke-bowl-with-salmon-avocado-quinoa-and-cucumber.jpg?s=612x612&w=0&k=20&c=dxyEXDzNYYjmKfNzi6QegEJQTbE-1jZZB4HtQKQABhs=",
                 "name": "Coq au Vin",
                 "ingredients": [
                     "1 whole chicken",
@@ -50,6 +56,8 @@
                 "rating": 4.6
             },
             {
+                "id": 14,
+                "photo": "https://media.istockphoto.com/id/872621988/photo/shrimps-with-rice-noodles-and-vegetables.jpg?s=612x612&w=0&k=20&c=BRuuPIBSlSyWqlAXDFkfmSj3U-zGrmIsIaBLcNViCvw=",
                 "name": "Croque Monsieur",
                 "ingredients": [
                     "4 slices of bread",
@@ -63,6 +71,8 @@
                 "rating": 4.3
             },
             {
+                "id": 15,
+                "photo": "https://media.istockphoto.com/id/168315321/photo/chicken-wings-isolated-on-white.jpg?s=612x612&w=0&k=20&c=sZL4KweX23xm1YoQyiC5IXxWBqUtXcikHQIYFpcudtQ=",
                 "name": "Ratatouille",
                 "ingredients": [
                     "1 eggplant",
@@ -79,6 +89,8 @@
                 "rating": 4.2
             },
             {
+                "id": 16,
+                "photo": "https://media.istockphoto.com/id/1056407114/photo/vegetarian-lasagna-on-white-background.jpg?s=612x612&w=0&k=20&c=1oIlRFKy3jQEjqfZsLWRPhHDrUfKhQ9JTZp-0pWvSjU=",
                 "name": "Creme Brulee",
                 "ingredients": [
                     "6 egg yolks",
@@ -92,15 +104,17 @@
             }
         ]
     },
-    {   
+    {
         "id": 2,
-        "photo": "https://example.com/chef2.jpg",
+        "photo": "https://thumbs.dreamstime.com/b/portrait-positive-handsome-chef-cook-beret-white-outfit-isolated-white-background-portrait-positive-handsome-chef-151412945.jpg",
         "name": "Chef Jane Smith",
-        "experience": "Over 15 years of experience in Italian cuisine",
+        "experience": "15",
         "bio": "Chef Jane Smith is an expert in Italian cuisine and has worked in some of the best Italian restaurants in the world. She is known for her creative and flavorful dishes that highlight the best ingredients from Italy.",
         "likes": 7000,
         "recipes": [
             {
+                "id": 21,
+                "photo": "https://media.istockphoto.com/id/909299644/photo/homemade-chicken-vegetable-soup-isolated-on-white.jpg?s=612x612&w=0&k=20&c=8W_bQa-7NCPtV0fHyr9F_Y5d5ObeFlGgjhxmshGaHVU=",
                 "name": "Spaghetti Carbonara",
                 "ingredients": [
                     "1 pound spaghetti",
@@ -113,6 +127,8 @@
                 "rating": 4.9
             },
             {
+                "id": 22,
+                "photo": "https://media.istockphoto.com/id/182245919/photo/stack-of-pork-ribs.jpg?s=612x612&w=0&k=20&c=Y6PGzgUTnwZd2Xc4TszfJZUdzpJHszztaAddLTwc_2s=",
                 "name": "Margherita Pizza",
                 "ingredients": [
                     "1 pound pizza dough",
@@ -124,6 +140,8 @@
                 "rating": 4.7
             },
             {
+                "id": 23,
+                "photo": "https://media.istockphoto.com/id/1090831256/photo/grilled-steak-with-asparagus.jpg?s=612x612&w=0&k=20&c=pI4tVO6NwXKdCpsgpygrBpCd7xgFAlRnnIpSbKGjTWo=",
                 "name": "Chicken Parmesan",
                 "ingredients": [
                     "4 boneless chicken breasts",
@@ -137,6 +155,8 @@
                 "rating": 4.5
             },
             {
+                "id": 24,
+                "photo": "https://media.istockphoto.com/id/1079928664/photo/pasta-with-salmon-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=YbaXxOFaYL0cnvN3Sg1m26iqyhHVTBuSdS9r2tM5N2k=",
                 "name": "Pesto Pasta",
                 "ingredients": [
                     "1 pound pasta",
@@ -151,15 +171,17 @@
             }
         ]
     },
-    {   
+    {
         "id": 3,
-        "photo": "https://example.com/chef3.jpg",
+        "photo": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=2000",
         "name": "Chef David Lee",
-        "experience": "Over 20 years of experience in Chinese cuisine",
+        "experience": "20",
         "bio": "Chef David Lee is a master of Chinese cuisine and has won numerous awards for his innovative and delicious dishes. He combines traditional Chinese cooking techniques with modern ingredients to create unique and unforgettable flavors.",
         "likes": 10000,
         "recipes": [
             {
+                "id": 31,
+                "photo": "https://media.istockphoto.com/id/1329666867/photo/traditional-spanish-seafood-paella-in-the-fry-pan-on-a-white-background.jpg?s=612x612&w=0&k=20&c=DHglTzmCriMbxcoQPe0mx6FZw_nEnUtPPcq_W4_r59A=",
                 "name": "Kung Pao Chicken",
                 "ingredients": [
                     "4 boneless chicken breasts",
@@ -177,6 +199,8 @@
                 "rating": 4.6
             },
             {
+                "id": 32,
+                "photo": "https://media.istockphoto.com/id/848140094/photo/breakfast-power-plate.jpg?s=612x612&w=0&k=20&c=h6nPp4LGp91iNJLqGiRVDX-JRFPfVJHdg1_UHQF3FBg=",
                 "name": "Steamed Dumplings",
                 "ingredients": [
                     "1 pound ground pork",
@@ -192,6 +216,8 @@
                 "rating": 4.8
             },
             {
+                "id": 33,
+                "photo": "https://media.istockphoto.com/id/184915885/photo/hot-wings.jpg?s=612x612&w=0&k=20&c=Fe91m2n55PVf8__DGF4orIvPojz1zEiYeJXaohicoCU=",
                 "name": "Beef and Broccoli Stir-Fry",
                 "ingredients": [
                     "1 pound flank steak",
@@ -211,15 +237,17 @@
             }
         ]
     },
-    {   
+    {
         "id": 4,
-        "photo": "https://example.com/chef4.jpg",
+        "photo": "https://thumbs.dreamstime.com/b/woman-chef-uniform-isolated-white-background-30015966.jpg",
         "name": "Chef Maria Sanchez",
-        "experience": "10 years of experience in Mexican cuisine",
+        "experience": "10",
         "bio": "Chef Maria Sanchez is a passionate and talented chef who specializes in authentic Mexican cuisine. She has trained in some of the best kitchens in Mexico and is known for her creative and flavorful dishes.",
         "likes": 8000,
         "recipes": [
             {
+                "id": 41,
+                "photo": "https://thumbs.dreamstime.com/b/woman-chef-uniform-isolated-white-background-30015966.jpg",
                 "name": "Tacos al Pastor",
                 "ingredients": [
                     "1 pound pork shoulder",
@@ -235,7 +263,8 @@
                 "rating": 4.7
             },
             {
-                "name": "Chicken Enchiladas",
+                "id": 42,
+                "photo": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
                 "ingredients": [
                     "2 boneless chicken breasts",
                     "1 tablespoon chili powder",
@@ -254,6 +283,8 @@
                 "rating": 4.5
             },
             {
+                "id": 43,
+                "photo": "https://media.istockphoto.com/id/185119929/photo/plate-of-salad.jpg?s=612x612&w=0&k=20&c=fvT24xQIQ5228C7qPV_Cm2MuRx1WWOY6MZ8qW0aKf7M=",
                 "name": "Guacamole",
                 "ingredients": [
                     "3 ripe avocados",
@@ -268,6 +299,8 @@
                 "rating": 4.9
             },
             {
+                "id": 44,
+                "photo": "https://media.istockphoto.com/id/1155681995/photo/spaghetti-pasta-with-meatballs.jpg?s=612x612&w=0&k=20&c=irfNrv5UMs85QZ4z2lmiDOg57u_eDoiZ8WqgLLamzog=",
                 "name": "Chiles Rellenos",
                 "ingredients": [
                     "4 poblano peppers",
@@ -286,6 +319,8 @@
                 "rating": 4.6
             },
             {
+                "id": 45,
+                "photo": "https://media.istockphoto.com/id/1174567728/photo/ketogenic-diet-keto-brunch-boiled-egg-pork-steak-and-olives-cucumber-spinach-brie-cheese-nuts.jpg?s=612x612&w=0&k=20&c=f59X5n1LpERJm9y1QD4w4D2OagWs7K2IZC2j6ZVyKVQ=",
                 "name": "Salsa Verde",
                 "ingredients": [
                     "1 pound tomatillos",
@@ -300,6 +335,8 @@
                 "rating": 4.8
             },
             {
+                "id": 46,
+                "photo": "https://media.istockphoto.com/id/673909238/photo/grilled-beef-steak.jpg?s=612x612&w=0&k=20&c=QpQzHAbx7jaUUl9WzSrWpmgcwwF9aC-2kkE5tEunUp8=",
                 "name": "Tamales",
                 "ingredients": [
                     "2 cups masa harina",
@@ -320,6 +357,8 @@
                 "rating": 4.7
             },
             {
+                "id": 47,
+                "photo": "https://media.istockphoto.com/id/908165344/photo/pasta-with-meat-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=zLxnClBbX6Azrd7Lud42pvQEQTjngPfIe5ElDCMroog=",
                 "name": "Churros",
                 "ingredients": [
                     "1 cupall-purpose flour",
@@ -334,6 +373,8 @@
                 "rating": 4.5
             },
             {
+                "id": 48,
+                "photo": "https://media.istockphoto.com/id/515437512/photo/bowl-of-granola-with-yogurt-and-berries.jpg?s=612x612&w=0&k=20&c=IFUMg2wnhBhHP_OTDZwyB6jXJSt6gaqbFChOPh0dU0w=",
                 "name": "Sopaipillas",
                 "ingredients": [
                     "2 cups all-purpose flour",
@@ -347,50 +388,277 @@
                 ],
                 "cooking_method": "In a large bowl, mix flour, baking powder, salt, and sugar. Cut in shortening until mixture is crumbly. Gradually add warm water until a soft dough forms. Knead dough for a few minutes. Cover dough and let rest for 20 minutes. Heat vegetable oil in a large skillet over medium-high heat. Roll out dough on a floured surface to about 1/4 inch thickness. Cut dough into small squares or circles. Fry dough in hot oil until golden brown. Drain on paper towels. Drizzle with honey before serving.",
                 "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Chef John",
+        "photo": "https://thumbs.dreamstime.com/b/woman-chef-uniform-isolated-white-background-30015966.jpg",
+        "experience": "10",
+        "bio": "Chef John is a classically trained chef with experience in some of the finest restaurants around the world. He specializes in French cuisine and loves to experiment with new flavors and ingredients.",
+        "likes": 1000,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Coq Au Vin",
+                "image": "https://media.istockphoto.com/id/168855393/photo/gourmet-salad.jpg?s=612x612&w=0&k=20&c=bnDzlcKlZYR8NZQXOXb1fbF6x3sV8LnE5pu6rQA2LpI=",
+                "ingredients": [
+                    "4 chicken legs",
+                    "4 slices bacon",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "2 cups red wine",
+                    "1 cup chicken broth",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon thyme",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "Preheat oven to 350 degrees F. In a large skillet, cook bacon over medium heat until crispy. Remove bacon and set aside. Season chicken with salt and pepper. In the same skillet, brown chicken on both sides. Remove chicken and set aside. Add onion and garlic to the skillet and cook until onion is translucent. Add red wine, chicken broth, tomato paste, and thyme to the skillet. Bring to a simmer. Add chicken and bacon back to the skillet. Cover and transfer to the oven. Bake for 45 minutes or until chicken is cooked through. Serve with crusty bread.",
+                "rating": 4.9
             },
             {
-                "name": "Arroz con Leche",
+                "id": 2,
+                "name": "Ratatouille",
+                "image": "https://media.istockphoto.com/id/1348318884/photo/plate-of-mexican-food-tacos.jpg?s=612x612&w=0&k=20&c=Vt8vi4-sCaum6YrzAiAkH7lUJK5mtp2zYT3uYw1M7iA=",
                 "ingredients": [
-                    "1 cup white rice",
-                    "2 cups water",
-                    "1 cinnamon stick",
-                    "1 can evaporated milk",
-                    "1 can sweetened condensed milk",
-                    "1/2 cup raisins"
+                    "1 eggplant",
+                    "1 zucchini",
+                    "1 yellow squash",
+                    "1 red bell pepper",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "2 tablespoons olive oil",
+                    "1 can diced tomatoes",
+                    "1 teaspoon thyme",
+                    "Salt and pepper"
                 ],
-                "cooking_method": "In a saucepan, combine rice, water, and cinnamon stick. Bring to a boil, then reduce heat and simmer until rice is tender and water is absorbed. Remove cinnamon stick. Add evaporated milk, sweetened condensed milk, and raisins. Cook over medium heat, stirring constantly, until mixture thickens. Serve hot or cold.",
+                "cooking_method": "Preheat oven to 375 degrees F. Slice eggplant, zucchini, yellow squash, red bell pepper, and onion into 1/4 inch slices. Mince garlic. In a large skillet, heat olive oil over medium heat. Add onion and garlic and cook until onion is translucent. Add diced tomatoes, thyme, salt, and pepper to the skillet. Simmer for 10 minutes. Arrange sliced vegetables in a baking dish, alternating the vegetables. Pour tomato mixture over the vegetables. Cover and bake for 45 minutes or until vegetables are tender. Serve hot or cold.",
+                "rating": 4.5
+            },
+            {
+                "id": 3,
+                "name": "Beef Bourguignon",
+                "image": "https://media.istockphoto.com/id/185119929/photo/plate-of-salad.jpg?s=612x612&w=0&k=20&c=fvT24xQIQ5228C7qPV_Cm2MuRx1WWOY6MZ8qW0aKf7M=",
+                "ingredients": [
+                    "2 pounds beef chuck",
+                    "4 slices bacon",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "2 cups red wine",
+                    "1 cup beef broth",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon thyme",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "Preheat oven to 350 degrees F. In a large skillet, cook bacon over medium heat until crispy. Remove bacon and set aside. Cut beef chuck into 2 inch pieces. Season with salt and pepper. In the same skillet, brown beef on all sides. Removebeef and set aside. Add onion and garlic to the skillet and cook until onion is translucent. Add red wine, beef broth, tomato paste, and thyme to the skillet. Bring to a simmer. Add beef and bacon back to the skillet. Cover and transfer to the oven. Bake for 2-3 hours or until beef is tender. Serve with mashed potatoes or crusty bread.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Chef Maria",
+        "photo": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=2000",
+        "experience": "8",
+        "bio": "Chef Maria specializes in Mexican cuisine and has worked in some of the most popular restaurants in Mexico City. She loves to create bold and flavorful dishes that showcase the best of Mexican ingredients.",
+        "likes": 800,
+        "recipes": [
+            {
+                "id": 4,
+                "name": "Tacos al Pastor",
+                "image": "https://media.istockphoto.com/id/1395140920/photo/peach-blueberry-and-arugula-fresh-fruit-salad-with-cheese-and-almond-nuts-top-view.jpg?s=612x612&w=0&k=20&c=IrRb7_0bFeO5uD0tfBoJxTElJHQ372li_ODfPEd7Vdk=",
+                "ingredients": [
+                    "1 pound pork shoulder",
+                    "1 pineapple",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "2 tablespoons achiote paste",
+                    "1 tablespoon paprika",
+                    "1 tablespoon cumin",
+                    "1 tablespoon oregano",
+                    "1/4 cup white vinegar",
+                    "Corn tortillas"
+                ],
+                "cooking_method": "Preheat grill to high heat. Cut pork shoulder into thin slices. Cut pineapple into small chunks. In a blender, combine onion, garlic, achiote paste, paprika, cumin, oregano, and white vinegar. Blend until smooth. In a large bowl, combine sliced pork, pineapple chunks, and marinade. Let marinate for at least 30 minutes. Thread pork and pineapple onto skewers. Grill skewers for 2-3 minutes on each side. Serve on corn tortillas with diced onion and cilantro.",
+                "rating": 4.7
+            },
+            {
+                "id": 5,
+                "name": "Enchiladas Verdes",
+                "image": "https://media.istockphoto.com/id/1223612183/photo/pad-pak-ruam-or-veg-thai-stir-fried-vegetables-in-black-bowl-isolated-on-backdrop-pad-pak-is.jpg?s=612x612&w=0&k=20&c=CmuCJPrB7Fu8KGqlG6c4WIhqiPNpyhnfjZagkzKJCwE=",
+                "ingredients": [
+                    "12 corn tortillas",
+                    "2 chicken breasts",
+                    "2 cloves garlic",
+                    "1 onion",
+                    "2 cups chicken broth",
+                    "1 pound tomatillos",
+                    "1 jalapeno",
+                    "1/4 cup cilantro",
+                    "1 tablespoon cumin",
+                    "1 tablespoon chili powder",
+                    "1 cup shredded cheese"
+                ],
+                "cooking_method": "Preheat oven to 375 degrees F. Season chicken breasts with salt and pepper. In a large skillet, cook chicken over medium heat until cooked through. Remove chicken and set aside. In the same skillet, cook garlic and onion until onion is translucent. Add chicken broth, tomatillos, jalapeno, cilantro, cumin, and chili powder to the skillet. Bring to a simmer. Blend mixture until smooth. In a large baking dish, pour a small amount of the sauce. Dip each corn tortilla into the sauce and fill with shredded chicken. Roll up tortilla and place seam side down in the baking dish. Pour remaining sauce over the enchiladas. Sprinkle shredded cheese over the top. Cover and bake for 20 minutes. Remove cover and bake for an additional 10 minutes or until cheese is melted and bubbly.",
                 "rating": 4.6
             },
             {
-                "name": "Flan",
+                "id": 6,
+                "name": "Chiles Rellenos",
+                "image": "https://media.istockphoto.com/id/173923946/photo/roasted-salmon-salad.jpg?s=612x612&w=0&k=20&c=jQaKpZax3KCdq7ralPLJl9GDS4GTesHJdq1-bOHvpUM=",
                 "ingredients": [
-                    "1 cup sugar",
-                    "4 eggs",
-                    "1 can sweetened condensed milk",
-                    "2 cups milk",
-                    "1 teaspoon vanilla extract"
+                    "6 poblano peppers",
+                    "1 pound ground beef",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1/2 cup tomato sauce",
+                    "1 tablespoon cumin",
+                    "1 tablespoon chili powder",
+                    "1 cup shredded cheese",
+                    "1/4 cup flour",
+                    "1/4 cup vegetable oil"
                 ],
-                "cooking_method": "Preheat oven to 350 degrees F. In a saucepan, melt sugar over medium-high heat until it is golden brown. Pour melted sugar into a 9-inch round baking dish, swirling to coat the bottom of the dish. In a bowl, whisk together eggs, sweetened condensed milk, milk, and vanilla extract. Pour mixture into the baking dish. Place the baking dish into a larger baking dish and fill the larger dish with hot water until it reaches halfway up the sides of the smaller dish. Bake for 45-50 minutes, or until a knife inserted into the center of the flan comes out clean. Chill flan in the refrigerator for at least 1 hour before serving.",
-                "rating": 4.8
+                "cooking_method": "Preheat oven to 375 degrees F. Roast poblano peppers over an open flame until skin is charred. Place peppers in a plastic bag and let steam for 10 minutes. Peel skin off the peppers and make a small slit in each pepper to remove seeds. In a large skillet, cook ground beef, onion, and garlic over medium heat until beef is browned. Add tomato sauce, cumin, and chili powder to the skillet. Cook for an additional 5 minutes. Stuff each poblano pepper with the beef mixture and top with shredded cheese. In a small bowl, mix together flour and vegetable oil. Pour mixture over the peppers. Bake for 25 minutes or until topping is golden brown.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Chef Kim",
+        "photo": "https://thumbs.dreamstime.com/b/portrait-positive-handsome-chef-cook-beret-white-outfit-isolated-white-background-portrait-positive-handsome-chef-151412945.jpg",
+        "experience": "10",
+        "bio": "Chef Kim is a Korean-American chef who has worked in some of the most prestigious restaurants in New York City. She specializes in Korean fusion cuisine and loves to combine traditional Korean flavors with modern cooking techniques.",
+        "likes": 1200,
+        "recipes": [
+            {
+                "id": 7,
+                "name": "Bibimbap",
+                "image": "https://media.istockphoto.com/id/475499733/photo/nachos.jpg?s=612x612&w=0&k=20&c=32sM2sMi8Clk8C99JdTXilaUv9wv9UnNF4jslj7JQxs=",
+                "ingredients": [
+                    "2 cups cooked white rice",
+                    "1/2 pound beef sirloin",
+                    "1 zucchini",
+                    "1 carrot",
+                    "1/2 onion",
+                    "1/2 cup bean sprouts",
+                    "1/2 cup spinach",
+                    "2 tablespoons soy sauce",
+                    "2 tablespoons sesame oil",
+                    "2 tablespoons sugar",
+                    "2 cloves garlic"
+                ],
+                "cooking_method": "Thinly slice beef sirloin and marinate in a mixture of soy sauce, sesame oil, sugar, and garlic for at least 30 minutes. Julienne zucchini, carrot, and onion. Blanch bean sprouts and spinach in boiling water. In a large bowl, layer cooked rice, sliced beef, julienned vegetables, bean sprouts, and spinach. Top with a fried egg if desired. Mix together the sauce of soy sauce, sesame oil, and sugar, and drizzle over the top of the bibimbap. Mix all ingredients together before eating.",
+                "rating": 4.9
             },
             {
-                "name": "Tres Leches Cake",
+                "id": 8,
+                "name": "Korean Fried Chicken",
+                "image": "https://media.istockphoto.com/id/1056419208/photo/grilled-chicken-breast-and-vegetables.jpg?s=612x612&w=0&k=20&c=_seZ-9HcA9Pty-OGkNsUh9dFiGhIPhCXBTKTkmFIFi8=",
                 "ingredients": [
-                    "1 1/2 cups all-purpose flour",
-                    "1 teaspoon baking powder",
-                    "1/2 cup unsalted butter",
-                    "1 cup white sugar",
-                    "5 eggs",
-                    "1/2 teaspoon vanilla extract",
-                    "2 cups whole milk",
-                    "1 can sweetened condensed milk",
-                    "1 can evaporated milk",
-                    "1 1/2 cups heavy whipping cream",
-                    "1/4 cup white sugar",
-                    "1 teaspoon vanilla extract"
+                    "2 pounds chicken wings",
+                    "1/2 cup cornstarch",
+                    "1/2 cup all-purpose flour",
+                    "1/2 teaspoon salt",
+                    "1/2 teaspoon black pepper",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1/4 cup honey",
+                    "2 tablespoons gochujang",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons sesame seeds"
                 ],
-                "cooking_method": "Preheat oven to 350 degrees F. Grease and flour a 9x13 inch baking pan. In a medium bowl, sift together flour and baking powder. In a large bowl, cream butter and 1 cup sugar until light and fluffy. Add eggs one at a time, beating well after each addition. Stir in vanilla. Add the flour mixture to the butter mixture 2 tablespoons at a time, mixing until well blended. Pour batter into prepared pan. Bake for 30 minutes. Pierce cake all over with a fork. In a medium bowl, whisk together whole milk, sweetened condensed milk, and evaporated milk. Pour mixture over the cake. Let cake cool completely. In a large bowl, whip heavy cream, 1/4 cup sugar, and 1 teaspoon vanilla until thick. Spread whipped cream over cake. Refrigerate until ready to serve.",
+                "cooking_method": "Preheat ovento 400 degrees F. In a large bowl, mix together cornstarch, flour, salt, and black pepper. Dredge chicken wings in the mixture until fully coated. Place wings on a baking sheet and bake for 25-30 minutes or until crispy and golden brown. In a small saucepan, mix together soy sauce, rice vinegar, honey, gochujang, vegetable oil, and sesame seeds. Heat over medium heat until sauce is heated through. Toss chicken wings in the sauce until coated. Serve hot.",
                 "rating": 4.7
+            },
+            {
+                "id": 9,
+                "name": "Bulgogi",
+                "image": "https://media.istockphoto.com/id/1348318884/photo/plate-of-mexican-food-tacos.jpg?s=612x612&w=0&k=20&c=Vt8vi4-sCaum6YrzAiAkH7lUJK5mtp2zYT3uYw1M7iA=",
+                "ingredients": [
+                    "1 pound beef sirloin",
+                    "1/4 cup soy sauce",
+                    "2 tablespoons sugar",
+                    "2 tablespoons sesame oil",
+                    "1 tablespoon sesame seeds",
+                    "1/2 onion",
+                    "2 cloves garlic",
+                    "1 tablespoon vegetable oil",
+                    "1/4 teaspoon black pepper",
+                    "4 cups cooked white rice"
+                ],
+                "cooking_method": "Thinly slice beef sirloin and marinate in a mixture of soy sauce, sugar, sesame oil, sesame seeds, and black pepper for at least 30 minutes. Julienne onion and finely chop garlic. In a large skillet, heat vegetable oil over medium-high heat. Add beef and cook until browned. Add onion and garlic and cook until onion is translucent. Serve over a bed of cooked white rice.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Chef Kim",
+        "photo": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=2000",
+        "experience": "10",
+        "bio": "Chef Kim is a Korean-American chef who has worked in some of the most prestigious restaurants in New York City. She specializes in Korean fusion cuisine and loves to combine traditional Korean flavors with modern cooking techniques.",
+        "likes": 1200,
+        "recipes": [
+            {
+                "id": 7,
+                "name": "Bibimbap",
+                "image": "https://media.istockphoto.com/id/1348318884/photo/plate-of-mexican-food-tacos.jpg?s=612x612&w=0&k=20&c=Vt8vi4-sCaum6YrzAiAkH7lUJK5mtp2zYT3uYw1M7iA=",
+                "ingredients": [
+                    "2 cups cooked white rice",
+                    "1/2 pound beef sirloin",
+                    "1 zucchini",
+                    "1 carrot",
+                    "1/2 onion",
+                    "1/2 cup bean sprouts",
+                    "1/2 cup spinach",
+                    "2 tablespoons soy sauce",
+                    "2 tablespoons sesame oil",
+                    "2 tablespoons sugar",
+                    "2 cloves garlic"
+                ],
+                "cooking_method": "Thinly slice beef sirloin and marinate in a mixture of soy sauce, sesame oil, sugar, and garlic for at least 30 minutes. Julienne zucchini, carrot, and onion. Blanch bean sprouts and spinach in boiling water. In a large bowl, layer cooked rice, sliced beef, julienned vegetables, bean sprouts, and spinach. Top with a fried egg if desired. Mix together the sauce of soy sauce, sesame oil, and sugar, and drizzle over the top of the bibimbap. Mix all ingredients together before eating.",
+                "rating": 4.9
+            },
+            {
+                "id": 8,
+                "name": "Korean Fried Chicken",
+                "image": "https://media.istockphoto.com/id/635675852/photo/pizza-on-white-background.jpg?s=612x612&w=0&k=20&c=3z6N8hYH4yNRK8EbGJ4Pt7vszNw7dL_l8QwnNUz2Z_o=",
+                "ingredients": [
+                    "2 pounds chicken wings",
+                    "1/2 cup cornstarch",
+                    "1/2 cup all-purpose flour",
+                    "1/2 teaspoon salt",
+                    "1/2 teaspoon black pepper",
+                    "1/4 cup soy sauce",
+                    "1/4 cup rice vinegar",
+                    "1/4 cup honey",
+                    "2 tablespoons gochujang",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons sesame seeds"
+                ],
+                "cooking_method": "Preheat ovento 400 degrees F. In a large bowl, mix together cornstarch, flour, salt, and black pepper. Dredge chicken wings in the mixture until fully coated. Place wings on a baking sheet and bake for 25-30 minutes or until crispy and golden brown. In a small saucepan, mix together soy sauce, rice vinegar, honey, gochujang, vegetable oil, and sesame seeds. Heat over medium heat until sauce is heated through. Toss chicken wings in the sauce until coated. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 9,
+                "name": "Bulgogi",
+                "image": "https://media.istockphoto.com/id/1323443868/photo/chickpea-hummus-bowl-closeup-with-pita-flatbread-dipping-isolated-on-white.jpg?s=612x612&w=0&k=20&c=L97au80MCZwcARYCy_VOQaQUPz2lRqIUjtb6PT6_R3o=",
+                "ingredients": [
+                    "1 pound beef sirloin",
+                    "1/4 cup soy sauce",
+                    "2 tablespoons sugar",
+                    "2 tablespoons sesame oil",
+                    "1 tablespoon sesame seeds",
+                    "1/2 onion",
+                    "2 cloves garlic",
+                    "1 tablespoon vegetable oil",
+                    "1/4 teaspoon black pepper",
+                    "4 cups cooked white rice"
+                ],
+                "cooking_method": "Thinly slice beef sirloin and marinate in a mixture of soy sauce, sugar, sesame oil, sesame seeds, and black pepper for at least 30 minutes. Julienne onion and finely chop garlic. In a large skillet, heat vegetable oil over medium-high heat. Add beef and cook until browned. Add onion and garlic and cook until onion is translucent. Serve over a bed of cooked white rice.",
+                "rating": 4.8
             }
         ]
     }
